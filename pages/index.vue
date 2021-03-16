@@ -7,21 +7,23 @@
 
         <SearchPopup />
 
-        <HeroSliderOne />
+        <HeroFixedBanner />
 
-        <AboutOne />
+        <AboutTwo />
+
+        <FunFcat />
 
         <FeatureOne :style="{backgroundColor: '#f8faff'}" />
 
-        <SuccessStory />
+        <SkillWithVideo />
 
-        <PortfolioGallery />
+        <PortfolioGalleryTwo :style="{backgroundColor: '#f8faff'}" />
 
-        <BlogSectionOne />
+        <TestimonialSectionOne />
 
-        <Newsletter />
+        <BlogSectionOne :style="{backgroundColor: '#f8faff'}" />
 
-        <CallToActionOne />
+        <ContactSectionOne />
 
         <TheFooter />
 
@@ -34,20 +36,21 @@
             TheHeader: () => import('@/components/TheHeader'),
             OffCanvasMobileMenu: () => import('@/components/OffCanvasMobileMenu'),
             SearchPopup: () => import('@/components/SearchPopup'),
-            HeroSliderOne: () => import('@/components/HeroSliderOne'),
-            AboutOne: () => import('@/components/AboutOne'),
+            HeroFixedBanner: () => import('@/components/HeroFixedBanner'),
+            AboutTwo: () => import('@/components/AboutTwo'),
+            FunFcat: () => import('@/components/FunFcat'),
             FeatureOne: () => import('@/components/FeatureOne'),
-            SuccessStory: () => import('@/components/SuccessStory'),
-            PortfolioGallery: () => import('@/components/PortfolioGallery'),
+            SkillWithVideo: () => import('@/components/SkillWithVideo'),
+            PortfolioGalleryTwo: () => import('@/components/PortfolioGalleryTwo'),
+            TestimonialSectionOne: () => import('@/components/TestimonialSectionOne'),
             BlogSectionOne: () => import('@/components/BlogSectionOne'),
-            Newsletter: () => import('@/components/Newsletter'),
-            CallToActionOne: () => import('@/components/CallToActionOne'),
+            ContactSectionOne: () => import('@/components/ContactSectionOne'),
             TheFooter: () => import('@/components/TheFooter'),
         },
 
         head() {
             return {
-                title: 'Corporate Business'
+                title: 'Home-2'
             }
         },
     };
