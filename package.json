@@ -1,7 +1,7 @@
 {
-    "name": "Exomac",
+    "name": "bpweb",
     "version": "1.0.0",
-    "author": "uzzal",
+    "author": "Jared Miles",
     "private": true,
     "scripts": {
         "dev": "nuxt",
