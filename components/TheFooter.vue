@@ -1,5 +1,5 @@
 <template>
-    <div class="footer-section" :style="{backgroundColor: '#030e22'}">
+    <div class="footer-section" :style="{backgroundColor: '#253f70'}">
         <div class="container">
             <!-- Footer Top Widgets Start -->
             <div class="row section-padding pt-0 mtn-30">

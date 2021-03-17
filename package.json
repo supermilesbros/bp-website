@@ -1,7 +1,7 @@
 {
     "name": "bpweb",
     "version": "1.0.0",
-    "author": "Jared Miles",
+    "author": "Jared Miles SUPERMILESBROS",
     "private": true,
     "scripts": {
         "dev": "nuxt",

@@ -8,8 +8,8 @@
                     <div class="col-xl-2 col-auto order-0">
                         <div class="header-logo">
                             <n-link to="/">
-                                <img class="dark-logo" src="/images/logo/logo.png" alt="Agency Logo">
-                                <img class="light-logo" src="/images/logo/logo.png" alt="Agency Logo">
+                                <img class="dark-logo" src="/images/logo/bp-logo-menu.png" alt="Agency Logo">
+                                <img class="light-logo" src="/images/logo/bp-logo-menu.png" alt="Agency Logo">
                             </n-link>
                         </div>
                     </div>
