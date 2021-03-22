@@ -35,20 +35,6 @@
     "_name": "_53826abc"
   },
   {
-    "name": "home-three",
-    "path": "/home-three",
-    "component": "C:\\\\Users\\\\jared\\\\Documents\\\\SMB\\\\SMB-DEV\\\\bp-web\\\\bp-web\\\\pages\\\\home-three.vue",
-    "chunkName": "pages/home-three",
-    "_name": "_7cccac01"
-  },
-  {
-    "name": "home-two",
-    "path": "/home-two",
-    "component": "C:\\\\Users\\\\jared\\\\Documents\\\\SMB\\\\SMB-DEV\\\\bp-web\\\\bp-web\\\\pages\\\\home-two.vue",
-    "chunkName": "pages/home-two",
-    "_name": "_4a460f22"
-  },
-  {
     "name": "pricing",
     "path": "/pricing",
     "component": "C:\\\\Users\\\\jared\\\\Documents\\\\SMB\\\\SMB-DEV\\\\bp-web\\\\bp-web\\\\pages\\\\pricing.vue",

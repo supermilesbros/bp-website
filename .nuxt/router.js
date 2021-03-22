@@ -9,8 +9,6 @@ const _5c2b6710 = () => interopDefault(import('..\\pages\\blog-classic.vue' /* w
 const _610dae28 = () => interopDefault(import('..\\pages\\blog-details.vue' /* webpackChunkName: "pages/blog-details" */))
 const _e2b7f960 = () => interopDefault(import('..\\pages\\blog-grid.vue' /* webpackChunkName: "pages/blog-grid" */))
 const _53826abc = () => interopDefault(import('..\\pages\\contact-us.vue' /* webpackChunkName: "pages/contact-us" */))
-const _7cccac01 = () => interopDefault(import('..\\pages\\home-three.vue' /* webpackChunkName: "pages/home-three" */))
-const _4a460f22 = () => interopDefault(import('..\\pages\\home-two.vue' /* webpackChunkName: "pages/home-two" */))
 const _fa30e876 = () => interopDefault(import('..\\pages\\pricing.vue' /* webpackChunkName: "pages/pricing" */))
 const _23f954d0 = () => interopDefault(import('..\\pages\\project.vue' /* webpackChunkName: "pages/project" */))
 const _94c72ee6 = () => interopDefault(import('..\\pages\\project-details.vue' /* webpackChunkName: "pages/project-details" */))
@@ -48,14 +46,6 @@ export const routerOptions = {
     path: "/contact-us",
     component: _53826abc,
     name: "contact-us"
-  }, {
-    path: "/home-three",
-    component: _7cccac01,
-    name: "home-three"
-  }, {
-    path: "/home-two",
-    component: _4a460f22,
-    name: "home-two"
   }, {
     path: "/pricing",
     component: _fa30e876,

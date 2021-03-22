@@ -46,7 +46,7 @@
 
                     <!-- Header Right Start -->
                     <div class="col-xl-2 col d-none d-sm-flex justify-content-end order-1 order-xl-2">
-                        <n-link to="/" class="btn btn-light btn-hover-primary">Buy Now</n-link>
+                        <n-link to="/" class="btn btn-light btn-hover-primary">Shop Now</n-link>
                     </div>
                     <!-- Header Right End -->
 
