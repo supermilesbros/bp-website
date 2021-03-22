@@ -31,6 +31,7 @@ const components = {
   OffCanvasMobileMenu: () => import('../..\\components\\OffCanvasMobileMenu.vue' /* webpackChunkName: "components/off-canvas-mobile-menu" */).then(c => c.default || c),
   PortfolioGallery: () => import('../..\\components\\PortfolioGallery.vue' /* webpackChunkName: "components/portfolio-gallery" */).then(c => c.default || c),
   PortfolioGalleryTwo: () => import('../..\\components\\PortfolioGalleryTwo.vue' /* webpackChunkName: "components/portfolio-gallery-two" */).then(c => c.default || c),
+  PricingWrapper: () => import('../..\\components\\PricingWrapper.vue' /* webpackChunkName: "components/pricing-wrapper" */).then(c => c.default || c),
   ProjectWrapper: () => import('../..\\components\\ProjectWrapper.vue' /* webpackChunkName: "components/project-wrapper" */).then(c => c.default || c),
   SearchPopup: () => import('../..\\components\\SearchPopup.vue' /* webpackChunkName: "components/search-popup" */).then(c => c.default || c),
   SectionTitle: () => import('../..\\components\\SectionTitle.vue' /* webpackChunkName: "components/section-title" */).then(c => c.default || c),

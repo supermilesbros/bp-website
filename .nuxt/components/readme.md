@@ -36,6 +36,7 @@ You can directly use them in pages and other components without the need to impo
 - `<OffCanvasMobileMenu>` | `<off-canvas-mobile-menu>` (components/OffCanvasMobileMenu.vue)
 - `<PortfolioGallery>` | `<portfolio-gallery>` (components/PortfolioGallery.vue)
 - `<PortfolioGalleryTwo>` | `<portfolio-gallery-two>` (components/PortfolioGalleryTwo.vue)
+- `<PricingWrapper>` | `<pricing-wrapper>` (components/PricingWrapper.vue)
 - `<ProjectWrapper>` | `<project-wrapper>` (components/ProjectWrapper.vue)
 - `<SearchPopup>` | `<search-popup>` (components/SearchPopup.vue)
 - `<SectionTitle>` | `<section-title>` (components/SectionTitle.vue)

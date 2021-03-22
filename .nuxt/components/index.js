@@ -28,6 +28,7 @@ export { default as Newsletter } from '../..\\components\\Newsletter.vue'
 export { default as OffCanvasMobileMenu } from '../..\\components\\OffCanvasMobileMenu.vue'
 export { default as PortfolioGallery } from '../..\\components\\PortfolioGallery.vue'
 export { default as PortfolioGalleryTwo } from '../..\\components\\PortfolioGalleryTwo.vue'
+export { default as PricingWrapper } from '../..\\components\\PricingWrapper.vue'
 export { default as ProjectWrapper } from '../..\\components\\ProjectWrapper.vue'
 export { default as SearchPopup } from '../..\\components\\SearchPopup.vue'
 export { default as SectionTitle } from '../..\\components\\SectionTitle.vue'
@@ -73,6 +74,7 @@ export const LazyNewsletter = import('../..\\components\\Newsletter.vue' /* webp
 export const LazyOffCanvasMobileMenu = import('../..\\components\\OffCanvasMobileMenu.vue' /* webpackChunkName: "components/off-canvas-mobile-menu" */).then(c => c.default || c)
 export const LazyPortfolioGallery = import('../..\\components\\PortfolioGallery.vue' /* webpackChunkName: "components/portfolio-gallery" */).then(c => c.default || c)
 export const LazyPortfolioGalleryTwo = import('../..\\components\\PortfolioGalleryTwo.vue' /* webpackChunkName: "components/portfolio-gallery-two" */).then(c => c.default || c)
+export const LazyPricingWrapper = import('../..\\components\\PricingWrapper.vue' /* webpackChunkName: "components/pricing-wrapper" */).then(c => c.default || c)
 export const LazyProjectWrapper = import('../..\\components\\ProjectWrapper.vue' /* webpackChunkName: "components/project-wrapper" */).then(c => c.default || c)
 export const LazySearchPopup = import('../..\\components\\SearchPopup.vue' /* webpackChunkName: "components/search-popup" */).then(c => c.default || c)
 export const LazySectionTitle = import('../..\\components\\SectionTitle.vue' /* webpackChunkName: "components/section-title" */).then(c => c.default || c)

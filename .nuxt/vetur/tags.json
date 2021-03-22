@@ -89,6 +89,9 @@
   "PortfolioGalleryTwo": {
     "description": "Auto imported from components/PortfolioGalleryTwo.vue"
   },
+  "PricingWrapper": {
+    "description": "Auto imported from components/PricingWrapper.vue"
+  },
   "ProjectWrapper": {
     "description": "Auto imported from components/ProjectWrapper.vue"
   },

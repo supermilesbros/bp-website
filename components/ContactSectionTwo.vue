@@ -59,8 +59,8 @@
                     <div class="contact-form-area box-shadow">
                         <!-- Section Title Start -->
                         <div class="section-title text-center mb-7">
-                            <h2 class="title fz-28">Let’s talk about your project</h2>
-                            <p class="sub-title">We have made it easy for clients to reach us and get their solutions weaved</p>
+                            <h2 class="title fz-28">Let’s talk about you</h2>
+                            <p class="sub-title">We have made it easy for clients to reach us and get their solutions</p>
                         </div>
                         <!-- Section Title End -->
                         <form >

@@ -7,11 +7,9 @@
 
         <SearchPopup />
 
-        <ServiceWrapper />
+        <BreadcrumbOne :items="items" title="Our Simple Pricing" backgroundUrl= "/images/bg/breadcrumb-bg-three.jpg" />
 
-        <SuccessStory :style="{backgroundColor: '#f8faff'}" />
-
-        <AboutFour />
+        <PricingWrapper />
 
         <FunfactWithTitle />
 
@@ -28,7 +26,8 @@
             TheHeader: () => import('@/components/TheHeader'),
             OffCanvasMobileMenu: () => import('@/components/OffCanvasMobileMenu'),
             SearchPopup: () => import('@/components/SearchPopup'),
-            ServiceWrapper: () => import('@/components/ServiceWrapper'),
+            BreadcrumbOne: () => import('@/components/BreadcrumbOne'),
+            PricingWrapper: () => import('@/components/PricingWrapper'),
             SuccessStory: () => import('@/components/SuccessStory'),
             AboutFour: () => import('@/components/AboutFour'),
             FunfactWithTitle: () => import('@/components/FunfactWithTitle'),
@@ -38,13 +37,22 @@
 
         data() {
             return {
-                
+                items: [
+                    {
+                        text: 'Home',
+                        to: "/"
+                    },
+                    {
+                        text: 'Pricing',
+                        active: true
+                    }
+                ]
             }
         },
 
         head() {
             return {
-                title: 'Pricing'
+                title: 'Service'
             }
         },
     };
