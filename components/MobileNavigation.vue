@@ -2,19 +2,8 @@
     <div class="mobile-navigation">
         <nav class="offcanvas-navigation" id="offcanvas-navigation">
             <ul>
-                <li class="menu-item-has-children">
+                <li>
                     <n-link to="/">Home</n-link>
-                    <ul class="sub-menu">
-                        <li>
-                            <n-link to="/">Home One</n-link>
-                        </li>
-                        <li>
-                            <n-link to="/home-two">Home Two</n-link>
-                        </li>
-                        <li>
-                            <n-link to="/home-three">Home Three</n-link>
-                        </li>
-                    </ul>
                 </li>
 
                 <li>

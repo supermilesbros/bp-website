@@ -3,77 +3,72 @@
     "name": "about",
     "path": "/about",
     "component": "C:\\\\Users\\\\jared\\\\Documents\\\\SMB\\\\SMB-DEV\\\\bp-web\\\\bp-web\\\\pages\\\\about.vue",
-    "chunkName": "pages/about",
-    "_name": "_c7b67c68"
+    "chunkName": "pages/about"
   },
   {
     "name": "blog-classic",
     "path": "/blog-classic",
     "component": "C:\\\\Users\\\\jared\\\\Documents\\\\SMB\\\\SMB-DEV\\\\bp-web\\\\bp-web\\\\pages\\\\blog-classic.vue",
-    "chunkName": "pages/blog-classic",
-    "_name": "_5c2b6710"
+    "chunkName": "pages/blog-classic"
   },
   {
     "name": "blog-details",
     "path": "/blog-details",
     "component": "C:\\\\Users\\\\jared\\\\Documents\\\\SMB\\\\SMB-DEV\\\\bp-web\\\\bp-web\\\\pages\\\\blog-details.vue",
-    "chunkName": "pages/blog-details",
-    "_name": "_610dae28"
+    "chunkName": "pages/blog-details"
   },
   {
     "name": "blog-grid",
     "path": "/blog-grid",
     "component": "C:\\\\Users\\\\jared\\\\Documents\\\\SMB\\\\SMB-DEV\\\\bp-web\\\\bp-web\\\\pages\\\\blog-grid.vue",
-    "chunkName": "pages/blog-grid",
-    "_name": "_e2b7f960"
+    "chunkName": "pages/blog-grid"
   },
   {
     "name": "contact-us",
     "path": "/contact-us",
     "component": "C:\\\\Users\\\\jared\\\\Documents\\\\SMB\\\\SMB-DEV\\\\bp-web\\\\bp-web\\\\pages\\\\contact-us.vue",
-    "chunkName": "pages/contact-us",
-    "_name": "_53826abc"
+    "chunkName": "pages/contact-us"
   },
   {
     "name": "home-three",
     "path": "/home-three",
     "component": "C:\\\\Users\\\\jared\\\\Documents\\\\SMB\\\\SMB-DEV\\\\bp-web\\\\bp-web\\\\pages\\\\home-three.vue",
-    "chunkName": "pages/home-three",
-    "_name": "_7cccac01"
+    "chunkName": "pages/home-three"
   },
   {
     "name": "home-two",
     "path": "/home-two",
     "component": "C:\\\\Users\\\\jared\\\\Documents\\\\SMB\\\\SMB-DEV\\\\bp-web\\\\bp-web\\\\pages\\\\home-two.vue",
-    "chunkName": "pages/home-two",
-    "_name": "_4a460f22"
+    "chunkName": "pages/home-two"
+  },
+  {
+    "name": "pricing",
+    "path": "/pricing",
+    "component": "C:\\\\Users\\\\jared\\\\Documents\\\\SMB\\\\SMB-DEV\\\\bp-web\\\\bp-web\\\\pages\\\\pricing.vue",
+    "chunkName": "pages/pricing"
   },
   {
     "name": "project",
     "path": "/project",
     "component": "C:\\\\Users\\\\jared\\\\Documents\\\\SMB\\\\SMB-DEV\\\\bp-web\\\\bp-web\\\\pages\\\\project.vue",
-    "chunkName": "pages/project",
-    "_name": "_23f954d0"
+    "chunkName": "pages/project"
   },
   {
     "name": "project-details",
     "path": "/project-details",
     "component": "C:\\\\Users\\\\jared\\\\Documents\\\\SMB\\\\SMB-DEV\\\\bp-web\\\\bp-web\\\\pages\\\\project-details.vue",
-    "chunkName": "pages/project-details",
-    "_name": "_94c72ee6"
+    "chunkName": "pages/project-details"
   },
   {
     "name": "service",
     "path": "/service",
     "component": "C:\\\\Users\\\\jared\\\\Documents\\\\SMB\\\\SMB-DEV\\\\bp-web\\\\bp-web\\\\pages\\\\service.vue",
-    "chunkName": "pages/service",
-    "_name": "_99d0b998"
+    "chunkName": "pages/service"
   },
   {
     "name": "index",
     "path": "/",
     "component": "C:\\\\Users\\\\jared\\\\Documents\\\\SMB\\\\SMB-DEV\\\\bp-web\\\\bp-web\\\\pages\\\\index.vue",
-    "chunkName": "pages/index",
-    "_name": "_8846c6de"
+    "chunkName": "pages/index"
   }
 ]

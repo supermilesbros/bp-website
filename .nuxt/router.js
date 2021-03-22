@@ -11,6 +11,7 @@ const _e2b7f960 = () => interopDefault(import('..\\pages\\blog-grid.vue' /* webp
 const _53826abc = () => interopDefault(import('..\\pages\\contact-us.vue' /* webpackChunkName: "pages/contact-us" */))
 const _7cccac01 = () => interopDefault(import('..\\pages\\home-three.vue' /* webpackChunkName: "pages/home-three" */))
 const _4a460f22 = () => interopDefault(import('..\\pages\\home-two.vue' /* webpackChunkName: "pages/home-two" */))
+const _fa30e876 = () => interopDefault(import('..\\pages\\pricing.vue' /* webpackChunkName: "pages/pricing" */))
 const _23f954d0 = () => interopDefault(import('..\\pages\\project.vue' /* webpackChunkName: "pages/project" */))
 const _94c72ee6 = () => interopDefault(import('..\\pages\\project-details.vue' /* webpackChunkName: "pages/project-details" */))
 const _99d0b998 = () => interopDefault(import('..\\pages\\service.vue' /* webpackChunkName: "pages/service" */))
@@ -55,6 +56,10 @@ export const routerOptions = {
     path: "/home-two",
     component: _4a460f22,
     name: "home-two"
+  }, {
+    path: "/pricing",
+    component: _fa30e876,
+    name: "pricing"
   }, {
     path: "/project",
     component: _23f954d0,

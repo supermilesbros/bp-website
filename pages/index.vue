@@ -50,7 +50,7 @@
 
         head() {
             return {
-                title: 'Home-2'
+                title: 'Balance Period - Home'
             }
         },
     };

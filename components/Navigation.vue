@@ -1,19 +1,8 @@
 <template>
     <nav class="site-main-menu">
         <ul>
-            <li class="has-children">
+            <li>
                 <n-link to="/">Home</n-link>
-                <ul class="sub-menu">
-                    <li>
-                        <n-link to="/">Home One</n-link>
-                    </li>
-                    <li>
-                        <n-link to="/home-two">Home Two</n-link>
-                    </li>
-                    <li>
-                        <n-link to="/home-three">Home Three</n-link>
-                    </li>
-                </ul>
             </li>
             <li>
                 <n-link to="/about">About Us</n-link>
@@ -21,16 +10,8 @@
             <li>
                 <n-link to="/service">Services</n-link>
             </li>
-            <li class="has-children">
-                <n-link to="/project">Project</n-link>
-                <ul class="sub-menu">
-                    <li>
-                        <n-link to="/project">Project</n-link>
-                    </li>
-                    <li>
-                        <n-link to="/project-details">Project Details</n-link>
-                    </li>
-                </ul>
+            <li>
+                <n-link to="/pricing">Pricing</n-link>
             </li>
             <li class="has-children">
                 <n-link to="/blog-grid">Blog</n-link>
