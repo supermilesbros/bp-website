@@ -52,7 +52,7 @@
 
         head() {
             return {
-                title: 'Service'
+                title: 'Pricing'
             }
         },
     };

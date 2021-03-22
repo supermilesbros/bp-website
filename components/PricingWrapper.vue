@@ -22,7 +22,7 @@
 </template>
 
 <script>
-    import serviceData from '~/data/service.json';
+    import serviceData from '~/data/pricing.json';
 
     export default {
         components: {

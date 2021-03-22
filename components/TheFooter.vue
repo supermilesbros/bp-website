@@ -14,7 +14,7 @@
                         <div class="footer-widget-content">
                             <div class="content">
                                 <p><a href="tel:(+1)212-946-2701">{{ footerData.footerAboutWidget.telephone }}</a></p>
-                                <p><a href="mailto:hello@hasagency.com">{{ footerData.footerAboutWidget.email }}</a></p>
+                                <p><a href="mailto:ray@balanceperiod.com">{{ footerData.footerAboutWidget.email }}</a></p>
                             </div>
                             <div class="footer-social-inline">
                                 <a :href="footerData.footerAboutWidget.twitterUrl" target="_blank">
@@ -97,7 +97,7 @@
             <!-- Footer Copyright Start -->
             <div class="row">
                 <div class="col">
-                    <p class="copyright">Copyright &copy; 2021 <a href="https://hasthemes.com/" target="_blank">HasThemes</a>. All Rights Reserved.</p>
+                    <p class="copyright">Copyright &copy; 2021 Balance Period All Rights Reserved.</p>
                 </div>
             </div>
             <!-- Footer Copyright End -->

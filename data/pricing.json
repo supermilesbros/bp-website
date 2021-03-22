@@ -1,0 +1,21 @@
+[
+    {
+        "id": 1,
+        "title": "Option 1 $X",
+        "text": "First impressions count! Make sure your brand works for you. We offer digital marketing.",
+        "iconSrc": "/images/svg/linea/linea-basic-target.svg"
+    },
+    {
+        "id": 2,
+        "title": "Option 2 $X",
+        "text": "First impressions count! Make sure your brand works for you. We offer digital marketing.",
+        "iconSrc": "/images/svg/linea/linea-basic-picture-multiple.svg"
+    },
+    {
+        "id": 3,
+        "title": "Option 3 $X",
+        "text": "First impressions count! Make sure your brand works for you. We offer digital marketing.",
+        "iconSrc": "/images/svg/linea/linea-basic-picture.svg"
+    }
+   
+]

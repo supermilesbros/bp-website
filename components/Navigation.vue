@@ -13,19 +13,8 @@
             <li>
                 <n-link to="/pricing">Pricing</n-link>
             </li>
-            <li class="has-children">
-                <n-link to="/blog-grid">Blog</n-link>
-                <ul class="sub-menu">
-                    <li>
-                        <n-link to="/blog-grid">Blog Grid</n-link>
-                    </li>
-                    <li>
-                        <n-link to="/blog-classic">Blog Classic</n-link>
-                    </li>
-                    <li>
-                        <n-link to="/blog-details">Blog Details</n-link>
-                    </li>
-                </ul>
+            <li>
+                <n-link to="/blog-classic">Blog</n-link>
             </li>
             <li>
                 <n-link to="/contact-us">Contact Us</n-link>
