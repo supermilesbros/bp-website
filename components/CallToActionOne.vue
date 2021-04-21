@@ -6,17 +6,6 @@
             <!-- Section Title End -->
 
             <div class="row row-cols-lg-3 row-cols-md-2 row-cols-sm-2 row-cols-1 mtn-30">
-                <div class="col mt-30" data-aos="fade-up">
-                    <div class="contact-info" data-vivus-hover>
-                        <div class="icon">
-                            <img class="svgInject" src="/images/svg/linea/linea-basic-map.svg" alt="Icon">
-                        </div>
-                        <div class="info">
-                            <h4 class="title">Our Locations</h4>
-                            <span class="info-text"> 110 W 34th St, NYC. <br> 67 Madison Avenue.</span>
-                        </div>
-                    </div>
-                </div>
 
                 <div class="col mt-30" data-aos="fade-up">
                     <div class="contact-info" data-vivus-hover>
@@ -25,7 +14,9 @@
                         </div>
                         <div class="info">
                             <h4 class="title">Give Us A Call</h4>
-                            <span class="info-text"> (+1) 212-946-2701 <br> (+1) 212-946-2702</span>
+                            <span class="info-text">
+                                <a href="tel:8122692705">(812)269-2705</a>
+                            </span>
                         </div>
                     </div>
                 </div>
@@ -38,9 +29,7 @@
                         <div class="info">
                             <h4 class="title">Help Desk</h4>
                             <span class="info-text">
-                                <a href="mailto:hello@hasthemes.com">hello@hasthemes.com</a>
-                                <br>
-                                <a href="mailto:sales@hasthemes.com">sales@hasthemes.com</a>
+                                <a href="mailto:info@balanceperiod.com">info@balanceperiod.com</a>
                             </span>
                         </div>
                     </div>

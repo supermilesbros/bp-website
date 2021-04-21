@@ -5,7 +5,7 @@
                 <div class="col-xl-7 col-lg-6 col-12" data-aos="fade-up">
                     <div class="about-image-area">
                         <div class="about-image js-tilt">
-                            <img src="/images/BP/bp8.jpg" alt="image">
+                            <img src="/images/about/about-3.jpg" alt="image">
                         </div>
                         
                         

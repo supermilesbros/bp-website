@@ -13,9 +13,9 @@
             <li>
                 <n-link to="/pricing">Pricing</n-link>
             </li>
-            <li>
+            <!-- <li>
                 <n-link to="/blog-classic">Blog</n-link>
-            </li>
+            </li> -->
             <li>
                 <n-link to="/contact-us">Contact Us</n-link>
             </li>

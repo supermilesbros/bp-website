@@ -1,6 +1,7 @@
 import Vue from 'vue'
 
 const components = {
+  AboutFive: () => import('../..\\components\\AboutFive.vue' /* webpackChunkName: "components/about-five" */).then(c => c.default || c),
   AboutFour: () => import('../..\\components\\AboutFour.vue' /* webpackChunkName: "components/about-four" */).then(c => c.default || c),
   AboutOne: () => import('../..\\components\\AboutOne.vue' /* webpackChunkName: "components/about-one" */).then(c => c.default || c),
   AboutThree: () => import('../..\\components\\AboutThree.vue' /* webpackChunkName: "components/about-three" */).then(c => c.default || c),

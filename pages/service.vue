@@ -11,9 +11,7 @@
 
         <ServiceWrapper />
 
-        <SuccessStory :style="{backgroundColor: '#f8faff'}" />
-
-        <AboutFour />
+        <AboutFive />
 
         <TheFooter />
 
@@ -29,7 +27,7 @@
             BreadcrumbOne: () => import('@/components/BreadcrumbOne'),
             ServiceWrapper: () => import('@/components/ServiceWrapper'),
             SuccessStory: () => import('@/components/SuccessStory'),
-            AboutFour: () => import('@/components/AboutFour'),
+            AboutFive: () => import('@/components/AboutFive'),
             FunfactWithTitle: () => import('@/components/FunfactWithTitle'),
             ContactSectionTwo: () => import('@/components/ContactSectionTwo'),
             TheFooter: () => import('@/components/TheFooter'),

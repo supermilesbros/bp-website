@@ -1,3 +1,4 @@
+export { default as AboutFive } from '../..\\components\\AboutFive.vue'
 export { default as AboutFour } from '../..\\components\\AboutFour.vue'
 export { default as AboutOne } from '../..\\components\\AboutOne.vue'
 export { default as AboutThree } from '../..\\components\\AboutThree.vue'
@@ -44,6 +45,7 @@ export { default as TestimonialSectionOne } from '../..\\components\\Testimonial
 export { default as TheFooter } from '../..\\components\\TheFooter.vue'
 export { default as TheHeader } from '../..\\components\\TheHeader.vue'
 
+export const LazyAboutFive = import('../..\\components\\AboutFive.vue' /* webpackChunkName: "components/about-five" */).then(c => c.default || c)
 export const LazyAboutFour = import('../..\\components\\AboutFour.vue' /* webpackChunkName: "components/about-four" */).then(c => c.default || c)
 export const LazyAboutOne = import('../..\\components\\AboutOne.vue' /* webpackChunkName: "components/about-one" */).then(c => c.default || c)
 export const LazyAboutThree = import('../..\\components\\AboutThree.vue' /* webpackChunkName: "components/about-three" */).then(c => c.default || c)
