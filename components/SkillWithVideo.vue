@@ -53,7 +53,7 @@
                             <client-only>
                                 <silent-box :image="videos[0]">
                                     <template v-slot:silentbox-item>
-                                        <img class="image" src="/images/video/skill-video.jpg" alt="image" />
+                                        <img class="image" src="/images/BP/bp7.jpg" alt="image" />
                                         <div class="icon video-popup">
                                             <i class="fas fa-play"></i>
                                         </div>
