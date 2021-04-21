@@ -3,8 +3,8 @@
         <div class="container">
             <!-- Section Title Start -->
             <div class="section-title text-center" data-aos="fade-up">
-                <h2 class="title fz-32">Services that create identities, build brands, and get results</h2>
-                <p class="sub-title">We produce beautifully crafted creative solutions that transcend business goals. We provide the exceptional service we’d want to experience ourselves!</p>
+                <h2 class="title fz-32">Recognize the Full Worth of Your Life</h2>
+                <p class="sub-title">We provide products and services that are designed to keep you accountable as you cultivate simple, sustainable Self-Care habits!</p>
             </div>
             <!-- Section Title End -->
 

@@ -15,10 +15,6 @@
 
         <AboutFour />
 
-        <FunfactWithTitle />
-
-        <ContactSectionTwo />
-
         <TheFooter />
 
     </div>

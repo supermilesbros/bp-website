@@ -1,38 +1,38 @@
 [
     {
         "id": 1,
-        "title": "Branding",
-        "text": "First impressions count! Make sure your brand works for you. We offer digital marketing.",
+        "title": "Consulting",
+        "text": " Better understand where your staff is and get an action plan to better meet their needs.",
         "iconSrc": "/images/svg/linea/linea-basic-target.svg"
     },
     {
         "id": 2,
-        "title": "UX Design",
-        "text": "First impressions count! Make sure your brand works for you. We offer digital marketing.",
+        "title": "Coaching",
+        "text": "We guide you along the journey of becoming more emotionally intelligent and cultivating Self-Care habits.",
         "iconSrc": "/images/svg/linea/linea-basic-picture-multiple.svg"
     },
     {
         "id": 3,
-        "title": "Strategy",
-        "text": "First impressions count! Make sure your brand works for you. We offer digital marketing.",
+        "title": "Habit Tracking",
+        "text": "Measure how you spend your time so you can keep your habits aligned with your values and goals.",
         "iconSrc": "/images/svg/linea/linea-basic-picture.svg"
     },
     {
         "id": 4,
-        "title": "E-commerce",
-        "text": "First impressions count! Make sure your brand works for you. We offer digital marketing.",
+        "title": "Keynotes",
+        "text": "We create an engaging and empowering environment for your staff to recognize the full worth of their lives.",
         "iconSrc": "/images/svg/linea/linea-ecommerce-cart-plus.svg"
     },
     {
         "id": 5,
-        "title": "Marketing",
-        "text": "First impressions count! Make sure your brand works for you. We offer digital marketing.",
+        "title": "Workshops",
+        "text": "We guide your group step by step through the B.A.L.A.N.C.E. Blueprint.",
         "iconSrc": "/images/svg/linea/linea-basic-display.svg"
     },
     {
         "id": 6,
-        "title": "Development",
-        "text": "First impressions count! Make sure your brand works for you. We offer digital marketing.",
+        "title": "Online Support",
+        "text": "Easily connect with a member of our team so we can connect you with resources along your journey.",
         "iconSrc": "/images/svg/linea/linea-basic-gear.svg"
     }
 ]
