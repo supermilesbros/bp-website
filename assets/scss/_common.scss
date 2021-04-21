@@ -358,6 +358,11 @@ input:not([type=submit]):not([type=file]) {
     background-size: cover;
     background-repeat: no-repeat;
 }
+.bg-cover-about {
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
 
 // silent box style
 #silentbox-overlay {

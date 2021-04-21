@@ -3,7 +3,7 @@
         <div class="container text-center">
             <!-- Section Title Start -->
             <div class="section-title color-light text-center" data-aos="fade-up">
-                <h2 class="title">A full-service creative agency since 2007</h2>
+                <h2 class="title">BALANCE BLUEPRINT</h2>
             </div>
             <!-- Section Title End -->
             <client-only>
