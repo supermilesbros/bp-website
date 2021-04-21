@@ -7,7 +7,7 @@
 
         <SearchPopup />
 
-        <BreadcrumbOne :items="items" title="Our Simple Pricing" backgroundUrl= "/images/bg/breadcrumb-bg-three.jpg" />
+        <BreadcrumbOne :items="items" title="We Make Self-Care Simple" backgroundUrl= "/images/BP/bp3.jpg" />
 
         <PricingWrapper />
 
