@@ -3,8 +3,7 @@
         <div class="container-fluid">
             <!-- Section Title Start -->
             <div class="section-title text-center" data-aos="fade-up">
-                <h2 class="title fz-32">What our customers are saying about our services</h2>
-                <p class="sub-title">Get your company heading in the right direction with our digital marketing strategist</p>
+                <h2 class="title fz-32">Here’s what our clients have to say about our services</h2>
             </div>
             <!-- Section Title End -->
 
@@ -59,23 +58,23 @@
                 testimonialData: [
                     {
                         id: 1,
-                        text: "We are completely satisfied with the quality of service that we get. Workers were respectful, efficient, accommodating, cleaned up thoroughly.",
+                        text: "I’ve learned the importance of positive daily affirmations and that what we tell ourselves becomes a habit and the words we use manifest into actions. I now have a whole new perspective on wellness",
                         imgSrc: "/images/testimonial/author-1.png",
-                        name: "Uzzal Hossain",
+                        name: "Ashley Davis",
                         position: "Frontend Developer"
                     },
                     {
                         id: 2,
-                        text: "We are completely satisfied with the quality of service that we get. Workers were respectful, efficient, accommodating, cleaned up thoroughly.",
+                        text: "I have learned a great deal about awareness and how that alone can help you improve results and increase your bottom line. Balance Period has showed the importance of maintaining a positive attitude and present perspective while trying to achieve your goals!",
                         imgSrc: "/images/testimonial/author-2.png",
-                        name: "Tasnim Akter",
+                        name: "Josh Hunter",
                         position: "Marketing Manager"
                     },
                     {
                         id: 3,
-                        text: "We are completely satisfied with the quality of service that we get. Workers were respectful, efficient, accommodating, cleaned up thoroughly.",
+                        text: "Using the B.A.L.A.N.C.E. Blueprint to slowly but surely become more aware of what I’m spending time on, and thus where my energy is going, made it very clear where the adjustments in my life needed to be made. By adding in consistent positive habits, and focusing on expanding my awareness, I was able to step away from a career that was not adding to my life and start something new. I’ve never been more excited to be alive, so thank you to Balance Period.",
                         imgSrc: "/images/testimonial/author-3.png",
-                        name: "Yeasin Hossain",
+                        name: "John Miles",
                         position: "Team Leader"
                     }
                 ]

@@ -2,7 +2,7 @@
     <div class="section-padding-t90-b100">
         <div class="container">
             <!-- Section Title Start -->
-            <SectionTitle title="We create a unique action plan for brands" sub-title="Get your company heading in the right direction with our digital marketing strategist" add-class-name="mb-60" />
+            <SectionTitle title="THE B.A.L.A.N.C.E. BLUEPRINT" sub-title="Your step-by-step guide to recognizing the full worth of your life" add-class-name="mb-60" />
             <!-- Section Title End -->
 
             <div class="row row-cols-lg-3 row-cols-md-2 row-cols-sm-2 row-cols-1 mtn-30">
@@ -38,20 +38,20 @@
                 features: [
                     {
                         id: 1,
-                        title: "Branding",
-                        text: "First impressions count! Make sure your brand works for you. We offer digital marketing.",
+                        title: "Emotional Intelligence",
+                        text: "Your step-by-step guide to recognizing the full worth of your life.",
                         iconSrc: "/images/svg/linea/linea-basic-target.svg"
                     },
                     {
                         id: 2,
-                        title: "UX Design",
-                        text: "First impressions count! Make sure your brand works for you. We offer digital marketing.",
+                        title: "Mental Agility",
+                        text: "Increase your capacity to be aware of, control, and express your emotions so you can be more mindful in moments that matter the most.",
                         iconSrc: "/images/svg/linea/linea-basic-picture-multiple.svg"
                     },
                     {
                         id: 3,
-                        title: "Strategy",
-                        text: "First impressions count! Make sure your brand works for you. We offer digital marketing.",
+                        title: "Self-Care Habits",
+                        text: "Increase your ability to think, learn, and absorb new information so you can adopt more empowering beliefs and habits.",
                         iconSrc: "/images/svg/linea/linea-basic-picture.svg"
                     }
                 ]

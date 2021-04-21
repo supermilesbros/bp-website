@@ -5,19 +5,15 @@
 
         <OffCanvasMobileMenu />
 
-        <SearchPopup />
-
         <HeroFixedBanner />
 
-        <AboutTwo />
-
-        <FunFcat />
+        <!-- <FunFcat /> -->
 
         <FeatureOne :style="{backgroundColor: '#f8faff'}" />
 
         <SkillWithVideo />
 
-        <PortfolioGalleryTwo :style="{backgroundColor: '#f8faff'}" />
+        <!-- <PortfolioGalleryTwo :style="{backgroundColor: '#f8faff'}" /> -->
 
         <TestimonialSectionOne />
 
@@ -35,9 +31,7 @@
         components: {
             TheHeader: () => import('@/components/TheHeader'),
             OffCanvasMobileMenu: () => import('@/components/OffCanvasMobileMenu'),
-            SearchPopup: () => import('@/components/SearchPopup'),
             HeroFixedBanner: () => import('@/components/HeroFixedBanner'),
-            AboutTwo: () => import('@/components/AboutTwo'),
             FunFcat: () => import('@/components/FunFcat'),
             FeatureOne: () => import('@/components/FeatureOne'),
             SkillWithVideo: () => import('@/components/SkillWithVideo'),

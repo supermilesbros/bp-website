@@ -9,7 +9,6 @@
         <div class="author-info">
             <div class="cite">
                 <h6 class="name">{{ testimonial.name }}</h6>
-                <span class="position">{{ testimonial.position }}</span>
             </div>
         </div>
     </div>

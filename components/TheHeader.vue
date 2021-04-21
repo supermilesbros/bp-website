@@ -21,13 +21,13 @@
                             <Navigation />
                         </div>
                         <!-- Header Search Start -->
-                        <div class="header-search-area">
-                            <!-- Header Login Start -->
+                        <!-- <div class="header-search-area">
+                           
                             <div class="header-search">
                                 <a href="javascript:void(0)" class="header-search-toggle" @click="toggleClass('addClass', 'search-popup-open')">
                                     <i class="pe-7s-search pe-2x pe-va"></i>
                                 </a>
-                            </div>
+                            </div> -->
                             <!-- Header Login End -->
                         </div>
                         <!-- Header Search End -->
@@ -45,9 +45,9 @@
                     <!-- Header Main Menu End -->
 
                     <!-- Header Right Start -->
-                    <div class="col-xl-2 col d-none d-sm-flex justify-content-end order-1 order-xl-2">
+                    <!-- <div class="col-xl-2 col d-none d-sm-flex justify-content-end order-1 order-xl-2">
                         <n-link to="/" class="btn btn-light btn-hover-primary">Shop Now</n-link>
-                    </div>
+                    </div> -->
                     <!-- Header Right End -->
 
                 </div>

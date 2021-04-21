@@ -6,9 +6,9 @@
                     <div class="skill-with-video-content">
                         <!-- Section Title Two Start -->
                         <div class="section-title-two">
-                            <span class="sub-title">Development that converts and delivers</span>
+                            <span class="sub-title">Empowering Better Examples</span>
                             <h3 class="title">
-                                We offer the tools and skills that your company deserves
+                                We are here to serve individuals and organizations that influence our next generation.
                             </h3>
                         </div>
                         <!-- Section Title Two End -->
@@ -19,25 +19,25 @@
                                 <div class="icon">
                                     <i class="fas fa-check"></i>
                                 </div>
-                                <div class="text">Select & customize courses to your preferences</div>
+                                <div class="text">Educators</div>
                             </li>
                             <li class="item">
                                 <div class="icon">
                                     <i class="fas fa-check"></i>
                                 </div>
-                                <div class="text">Change the tutor and make arrangements</div>
+                                <div class="text">Schools</div>
                             </li>
                             <li class="item">
                                 <div class="icon">
                                     <i class="fas fa-check"></i>
                                 </div>
-                                <div class="text">Participate in events to join others</div>
+                                <div class="text">Parents</div>
                             </li>
                             <li class="item">
                                 <div class="icon">
                                     <i class="fas fa-check"></i>
                                 </div>
-                                <div class="text">Get the desired certificate delivered at house</div>
+                                <div class="text">Companies</div>
                             </li>
                         </ul>
                         <!-- Agency List End -->

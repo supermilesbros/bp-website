@@ -6,10 +6,6 @@
             </n-link>
         </div>
         <div class="info">
-            <ul class="meta">
-                <li><i class="far fa-calendar"></i>{{ blog.date }}</li>
-                <li><i class="far fa-eye"></i>{{ blog.view }} Views</li>
-            </ul>
             <h3 class="title">
                 <n-link to="/blog-details">{{ blog.title }}</n-link>
             </h3>

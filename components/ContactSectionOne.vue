@@ -7,13 +7,13 @@
                     <div class="contact-Information mr-xl-7">
                         <!-- Section Title Two Start -->
                         <div class="section-title-two">
-                            <span class="sub-title">Innovative & cutting-edge technology</span>
-                            <h3 class="title">We use latest technologies that are proven and practical</h3>
+                            <span class="sub-title">Your satisfaction is our priority</span>
+                            <h3 class="title">We are here to meet you where you are.</h3>
                         </div>
                         <!-- Section Title Two End -->
 
                         <!-- Contact Info Item Start -->
-                        <div class="contact-info ct-info-two" data-vivus-hover>
+                        <!-- <div class="contact-info ct-info-two" data-vivus-hover>
                             <div class="icon">
                                 <img class="svgInject" src="/images/svg/linea/linea-basic-map.svg" alt="">
                             </div>
@@ -21,7 +21,7 @@
                                 <h4 class="title">Our Locations</h4>
                                 <span class="info-text"> 110 W 34th St, NYC. / 67 Madison Avenue.</span>
                             </div>
-                        </div>
+                        </div> -->
                         <!-- Contact Info Item End -->
 
                         <!-- Contact Info Item Start -->
@@ -31,7 +31,9 @@
                             </div>
                             <div class="info">
                                 <h4 class="title">Give Us A Call</h4>
-                                <span class="info-text"> (+1) 212-946-2701 / (+1) 212-946-2702</span>
+                                <span class="info-text">
+                                     <a href="tel:8122692705">(812)269-2705</a>
+                                </span>
                             </div>
                         </div>
                         <!-- Contact Info Item End -->
@@ -44,8 +46,7 @@
                             <div class="info">
                                 <h4 class="title"> Help Desk</h4>
                                 <span class="info-text">
-                                    <a href="mailto:hello@hasthemes.com">hello@hasthemes.com</a>,
-                                    <a href="mailto:sales@hasthemes.com">sales@hasthemes.com</a>
+                                    <a href="mailto:info@balanceperiod.com">info@balanceperiod.com</a>,
                                 </span>
                             </div>
                         </div>
@@ -59,8 +60,8 @@
                     <div class="contact-form-area box-shadow">
                         <!-- Section Title Start -->
                         <div class="section-title text-center mb-7">
-                            <h2 class="title fz-28">Let’s talk about your project</h2>
-                            <p class="sub-title">We have made it easy for clients to reach us and get their solutions weaved</p>
+                            <h2 class="title fz-28">How can we help you</h2>
+                            <p class="sub-title">We have made it easy for clients to reach us and get their lives back on track</p>
                         </div>
                         <!-- Section Title End -->
                         <form >
