@@ -31,7 +31,6 @@
         components: {
             TheHeader: () => import('@/components/TheHeader'),
             OffCanvasMobileMenu: () => import('@/components/OffCanvasMobileMenu'),
-            SearchPopup: () => import('@/components/SearchPopup'),
             BreadcrumbOne: () => import('@/components/BreadcrumbOne'),
             CallToActionOne: () => import('@/components/CallToActionOne'),
             ContactForm: () => import('@/components/ContactForm'),
